@@ -44,3 +44,71 @@
 2025-03-11 00:02:20.624 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
 2025-03-11 00:04:43.712 [main] INFO  pages.BasePage - Successfully logged in!
 2025-03-11 00:04:45.450 [main] INFO  pages.BasePage - Clicked on product number: 1
+2025-03-11 01:25:58.630 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:25:58.731 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:25:58.963 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:25:59.063 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:25:59.334 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:25:59.479 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:25:59.651 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:25:59.747 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:25:59.915 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:26:00.036 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:26:00.228 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:26:00.307 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:26:00.468 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:26:00.552 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:26:00.717 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:26:00.798 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:26:00.958 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:26:01.046 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:26:01.227 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:26:01.378 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:19.552 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:19.756 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:20.059 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:20.189 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:20.376 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:20.489 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:20.705 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:20.839 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:21.041 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:21.134 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:21.324 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:21.423 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:21.678 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:21.792 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:21.976 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:22.086 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:22.305 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:22.423 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:27:22.621 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:27:22.706 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 01:28:49.822 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:29:15.631 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:29:16.259 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-11 01:29:16.269 [main] INFO  pages.BasePage - Filter value: Name (A to Z)
+2025-03-11 01:29:44.716 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:29:45.180 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-11 01:29:45.181 [main] INFO  pages.BasePage - Filter value: Name (Z to A)
+2025-03-11 01:30:13.456 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:30:13.897 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-11 01:30:13.898 [main] INFO  pages.BasePage - Filter value: Price (low to high)
+2025-03-11 01:30:42.330 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:30:42.754 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-11 01:30:42.754 [main] INFO  pages.BasePage - Filter value: Price (high to low)
+2025-03-11 01:31:10.985 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:31:12.826 [main] INFO  pages.BasePage - First item (Sauce Labs Backpack) added to cart.
+2025-03-11 01:31:14.365 [main] INFO  pages.BasePage - Navigated to the Cart page.
+2025-03-11 01:31:16.565 [main] INFO  pages.BasePage - Found product in the cart: Sauce Labs Backpack
+2025-03-11 01:31:42.210 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:31:43.649 [main] INFO  pages.BasePage - Clicked on product number: 1
+2025-03-11 01:32:10.606 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:32:12.366 [main] INFO  pages.BasePage - First item (Sauce Labs Backpack) added to cart.
+2025-03-11 01:32:13.774 [main] INFO  pages.BasePage - Navigated to the Cart page.
+2025-03-11 01:32:25.909 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 01:32:51.000 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 01:32:52.806 [main] INFO  pages.BasePage - First item (Sauce Labs Backpack) added to cart.
+2025-03-11 01:32:53.552 [main] INFO  pages.BasePage - Navigated to the Cart page.
+2025-03-11 01:32:56.967 [main] INFO  pages.BasePage - All products are removed from the cart.
+2025-03-11 01:33:07.092 [main] INFO  pages.BasePage - Cart is empty: Remove button is not visible

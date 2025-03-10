@@ -83,6 +83,11 @@ src/test
   - TestNG reports
   - Cucumber HTML/JSON reports
 
+- In summary, the automated tests:
+  - Consist of **10 cases for application**
+  - Leverage **retry mechanisms** to ensure reliable results
+  - Provide clarity and consistency through structured scenarios and clear documentation
+
 ## 🛠️ Troubleshooting Common Issues
 
 ### Null Pointer Exceptions (NPE)

@@ -7,6 +7,7 @@ Feature: Login functionality
     And User clicks login button
     Then the login should be "success"
 
+  # Scenario validating that when a user removes all products from the cart, the cart becomes empty.
   Scenario: Remove the products from the cart
     Given User is on the My Cart page and added a product to cart
     When User removes the products from the cart
