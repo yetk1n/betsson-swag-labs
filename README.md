@@ -97,30 +97,31 @@ PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 Check Appium server is running and connected to the correct device or emulator.
 
 ## 🎯 Future Improvements
-
 While the current framework provides a solid structure for automating UI and functional testing, several targeted enhancements are planned to improve efficiency, coverage, and ease of maintenance:
 
-### 📌 **1. Intelligent Test Prioritization and Flakiness Detection**
-- Leverage machine learning with historical test data and executions to dynamically prioritize tests and proactively identify flaky scenarios, thus enhancing reliability and reducing execution time.
+### 📌 **1. Parallel Test Execution**
+- Enable parallel test execution on multiple devices/emulators leveraging TestNG's built-in parallelization, Selenium Grid, or third-party cloud tools like BrowserStack or Sauce Labs. This will significantly decrease execution times, offering faster feedback for agile test cycles.
 
-### 📌 **2. Enhanced CI/CD Integration**
-- Integrate automated tests within a continuous integration and continuous deployment (CI/CD) pipeline using GitHub Actions or Jenkins. Scheduled executions and instant feedback loops will be added to speed up the development cycle, increase release confidence, and catch regressions early.
+### 📌 **2. Intelligent Test Prioritization and Flakiness Detection**
+- Utilize historical test execution data combined with machine learning techniques to dynamically prioritize tests and proactively identify flaky scenarios, increasing reliability and optimizing test schedules.
 
-### 📌 **3. API & Backend Validation**
-- Expand current coverage beyond UI interactions by integrating backend and API validations. This would significantly increase testing depth to ensure comprehensive application health.
+### 📌 **3. Enhanced CI/CD Integration**
+- Integrate automated testing deeper within a continuous integration/continuous deployment (CI/CD) pipeline using GitHub Actions or Jenkins to improve development agility, enabling automated daily test executions and early defect identification.
 
-### 📌 **4. Robust Debugging and Traceability Tools**
-- Improve reporting capabilities with automated screenshot capturing, screen-recording during failures, and enriched log analysis. Enhanced reporting with clearer issue traceability enables faster defect isolation and resolution.
+### 📌 **4. API & Backend Validation**
+- Extend current automated testing beyond user interface functionality to include backend and API validation. This provides comprehensive coverage by verifying system behaviors across layers.
 
-### 📌 **5. Data-Driven & Parameterized Testing**
-- Incorporate advanced techniques for data-driven tests, using external data providers (CSV, JSON, XML, YAML, or Excel). This strategy ensures broader scenario coverage and test suite scalability without code duplication.
+### 📌 **5. Robust Debugging and Traceability Tools**
+- Enhance existing reporting mechanisms by incorporating automated screenshot captures, execution video recordings in failure scenarios, and enriched logging for more straightforward debugging and quicker issue resolution.
 
-### 📌 **6. Performance and Load Test Integration**
-- Implement basic performance benchmarks into the existing framework using lightweight tools (like integrating Apache JMeter or Appium’s built-in performance APIs), quietly monitoring for response-time regressions and potential performance bottlenecks during functional tests.
+### 📌 **6. Data-Driven & Parameterized Testing**
+- Expand use of structured, external test data sets (CSV, XML, JSON, YAML, Excel) via data-driven testing methods. This approach helps maintain scalability, readability, and comprehensive coverage.
 
-### 📌 **7. Exploratory Test Automation**
-- Combine intelligent exploratory testing (possibly employing ML/algorithm-driven bots, if applicable later) to uncover application issues beyond rigid scripted tests, effectively catching edge-case scenarios.
+### 📌 **7. Performance and Load Test Integration**
+- Add lightweight performance testing mechanisms using tools like Apache JMeter or Appium’s in-built performance utilities, enabling early detection and prevention of performance regressions.
 
+### 📌 **8. Exploratory Test Automation**
+- Include exploratory automated testing approaches and intelligent bots (potentially ML-powered in later stages) to uncover unexpected edge-case scenarios and usability issues beyond scripted tests.
 
 ## 📖 Resources and Links
 
