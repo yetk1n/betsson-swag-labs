@@ -1,0 +1,46 @@
+2025-03-10 23:15:37.071 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:16:06.238 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:16:36.572 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:17:18.902 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:17:49.280 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:18:43.211 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:18:43.895 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-10 23:18:43.907 [main] INFO  pages.BasePage - Filter value: Name (A to Z)
+2025-03-10 23:19:13.115 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:19:14.504 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-10 23:19:14.523 [main] INFO  pages.BasePage - Filter value: Name (Z to A)
+2025-03-10 23:19:42.879 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:19:43.391 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-10 23:19:43.392 [main] INFO  pages.BasePage - Filter value: Price (low to high)
+2025-03-10 23:20:11.776 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:20:12.281 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-10 23:20:12.282 [main] INFO  pages.BasePage - Filter value: Price (high to low)
+2025-03-10 23:20:40.599 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:20:42.424 [main] INFO  pages.BasePage - First item (Sauce Labs Backpack) added to cart.
+2025-03-10 23:20:43.973 [main] INFO  pages.BasePage - Navigated to the Cart page.
+2025-03-10 23:20:46.329 [main] INFO  pages.BasePage - Found product in the cart: Sauce Labs Backpack
+2025-03-10 23:29:49.236 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-10 23:30:24.389 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-10 23:31:36.005 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-10 23:32:00.485 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:32:02.189 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-10 23:32:02.191 [main] INFO  pages.BasePage - Filter value: Name (Z to A)
+2025-03-10 23:32:31.310 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:32:32.321 [main] INFO  pages.BasePage - Opened the filter section.
+2025-03-10 23:32:32.322 [main] INFO  pages.BasePage - Filter value: Price (low to high)
+2025-03-10 23:54:03.270 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:54:03.973 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-10 23:54:29.232 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:54:30.008 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-10 23:55:49.616 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-10 23:56:14.264 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-10 23:56:15.039 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-10 23:59:32.665 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 00:01:50.575 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 00:01:52.234 [main] INFO  pages.BasePage - Clicked on product number: 1
+2025-03-11 00:01:53.087 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 1/2
+2025-03-11 00:02:18.276 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 00:02:19.895 [main] INFO  pages.BasePage - Clicked on product number: 1
+2025-03-11 00:02:20.624 [main] INFO  runners.RetryAnalyzer - Retrying scenario: 'runScenario' Retry attempt 2/2
+2025-03-11 00:04:43.712 [main] INFO  pages.BasePage - Successfully logged in!
+2025-03-11 00:04:45.450 [main] INFO  pages.BasePage - Clicked on product number: 1
