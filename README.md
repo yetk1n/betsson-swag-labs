@@ -28,6 +28,20 @@ cd betsson-swag-labs
 
 2. Ensure dependencies (defined in `pom.xml`) are correctly downloaded by syncing Maven dependencies in your IDE (optional but recommended).
 
+## ⚙️ Configuring Device UDID
+Before running your tests, ensure you specify the correct Android device/emulator `UDID` in your `config.properties` file:
+
+**Locate the file:**
+``` 
+src/test/resources/config.properties
+```
+
+**Set your device UDID:**
+``` properties
+udid = your-device-udid-here
+```
+
+
 ## ▶️ Running the Tests via TestNG.xml (IDE method)
 
 1. Start your **Appium Server** (verify it is successfully running).

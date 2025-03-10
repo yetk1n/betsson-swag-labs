@@ -5,7 +5,7 @@
     </listeners>
 
     <test name="Android Tests">
-        <parameter name="cucumber.filter.tags" value="@products"/>
+        <parameter name="cucumber.filter.tags" value="@smoke"/>
         <classes>
             <class name="runners.TestRunner"/>
         </classes>
