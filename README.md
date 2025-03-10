@@ -1,7 +1,7 @@
 # Betsson Swag Labs Automation Testing
 
 ## 📖 Project Description
-An automated mobile testing project designed to perform UI tests on the Swag Labs mobile application using Appium, Java, TestNG, and Cucumber. The project includes automated BDD scenarios covering login, product browsing, detail pages, API interactions, and various functional aspects of Swag Labs.
+An automated mobile testing project designed to perform UI tests on the Swag Labs mobile application using Appium, Java, TestNG, and Cucumber. The project includes automated BDD scenarios covering login, product browsing, detail pages, and various functional aspects of Swag Labs.
 
 ## 🚀 Technology Stack
 - **Programming Language:** Java (JDK 17)
