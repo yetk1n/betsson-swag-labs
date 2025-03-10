@@ -3,32 +3,6 @@
 ## 📖 Project Description
 An automated mobile testing project designed to perform UI tests on the Swag Labs mobile application using Appium, Java, TestNG, and Cucumber. The project includes automated BDD scenarios covering login, product browsing, detail pages, and various functional aspects of Swag Labs.
 
-## 🎯 Future Improvements
-
-While the current framework provides a solid structure for automating UI and functional testing, several targeted enhancements are planned to improve efficiency, coverage, and ease of maintenance:
-
-### 📌 **1. Intelligent Test Prioritization and Flakiness Detection**
-- Leverage machine learning with historical test data and executions to dynamically prioritize tests and proactively identify flaky scenarios, thus enhancing reliability and reducing execution time.
-
-### 📌 **2. Enhanced CI/CD Integration**
-- Integrate automated tests within a continuous integration and continuous deployment (CI/CD) pipeline using GitHub Actions or Jenkins. Scheduled executions and instant feedback loops will be added to speed up the development cycle, increase release confidence, and catch regressions early.
-
-### 📌 **3. API & Backend Validation**
-- Expand current coverage beyond UI interactions by integrating backend and API validations. This would significantly increase testing depth to ensure comprehensive application health.
-
-### 📌 **4. Robust Debugging and Traceability Tools**
-- Improve reporting capabilities with automated screenshot capturing, screen-recording during failures, and enriched log analysis. Enhanced reporting with clearer issue traceability enables faster defect isolation and resolution.
-
-### 📌 **5. Data-Driven & Parameterized Testing**
-- Incorporate advanced techniques for data-driven tests, using external data providers (CSV, JSON, XML, YAML, or Excel). This strategy ensures broader scenario coverage and test suite scalability without code duplication.
-
-### 📌 **6. Performance and Load Test Integration**
-- Implement basic performance benchmarks into the existing framework using lightweight tools (like integrating Apache JMeter or Appium’s built-in performance APIs), quietly monitoring for response-time regressions and potential performance bottlenecks during functional tests.
-
-### 📌 **7. Exploratory Test Automation**
-- Combine intelligent exploratory testing (possibly employing ML/algorithm-driven bots, if applicable later) to uncover application issues beyond rigid scripted tests, effectively catching edge-case scenarios.
-
-
 ## 🚀 Technology Stack
 - **Programming Language:** Java (JDK 17)
 - **Automation Framework:** Appium
@@ -121,6 +95,32 @@ PageFactory.initElements(new AppiumFieldDecorator(driver), this);
 
 ### Driver initialization issues
 Check Appium server is running and connected to the correct device or emulator.
+
+## 🎯 Future Improvements
+
+While the current framework provides a solid structure for automating UI and functional testing, several targeted enhancements are planned to improve efficiency, coverage, and ease of maintenance:
+
+### 📌 **1. Intelligent Test Prioritization and Flakiness Detection**
+- Leverage machine learning with historical test data and executions to dynamically prioritize tests and proactively identify flaky scenarios, thus enhancing reliability and reducing execution time.
+
+### 📌 **2. Enhanced CI/CD Integration**
+- Integrate automated tests within a continuous integration and continuous deployment (CI/CD) pipeline using GitHub Actions or Jenkins. Scheduled executions and instant feedback loops will be added to speed up the development cycle, increase release confidence, and catch regressions early.
+
+### 📌 **3. API & Backend Validation**
+- Expand current coverage beyond UI interactions by integrating backend and API validations. This would significantly increase testing depth to ensure comprehensive application health.
+
+### 📌 **4. Robust Debugging and Traceability Tools**
+- Improve reporting capabilities with automated screenshot capturing, screen-recording during failures, and enriched log analysis. Enhanced reporting with clearer issue traceability enables faster defect isolation and resolution.
+
+### 📌 **5. Data-Driven & Parameterized Testing**
+- Incorporate advanced techniques for data-driven tests, using external data providers (CSV, JSON, XML, YAML, or Excel). This strategy ensures broader scenario coverage and test suite scalability without code duplication.
+
+### 📌 **6. Performance and Load Test Integration**
+- Implement basic performance benchmarks into the existing framework using lightweight tools (like integrating Apache JMeter or Appium’s built-in performance APIs), quietly monitoring for response-time regressions and potential performance bottlenecks during functional tests.
+
+### 📌 **7. Exploratory Test Automation**
+- Combine intelligent exploratory testing (possibly employing ML/algorithm-driven bots, if applicable later) to uncover application issues beyond rigid scripted tests, effectively catching edge-case scenarios.
+
 
 ## 📖 Resources and Links
 
