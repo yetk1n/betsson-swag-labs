@@ -14,7 +14,7 @@ While the current framework provides a solid structure for automating UI and fun
 - Integrate automated tests within a continuous integration and continuous deployment (CI/CD) pipeline using GitHub Actions or Jenkins. Scheduled executions and instant feedback loops will be added to speed up the development cycle, increase release confidence, and catch regressions early.
 
 ### 📌 **3. API & Backend Validation**
-- Expand current coverage beyond UI interactions by integrating backend and API validations using REST-assured. This would significantly increase testing depth to ensure comprehensive application health.
+- Expand current coverage beyond UI interactions by integrating backend and API validations. This would significantly increase testing depth to ensure comprehensive application health.
 
 ### 📌 **4. Robust Debugging and Traceability Tools**
 - Improve reporting capabilities with automated screenshot capturing, screen-recording during failures, and enriched log analysis. Enhanced reporting with clearer issue traceability enables faster defect isolation and resolution.
